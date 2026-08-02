@@ -18,13 +18,6 @@ return ( <section
     development work.
   </p>
 
-  <a
-    className="email-link"
-    href="mailto:piyushchowdhary5151@gmail.com"
-  >
-    piyushchowdhary5151@gmail.com
-  </a>
-
   <div className="contact-socials">
     <a
       href="https://github.com/piyush-2807"
